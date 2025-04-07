@@ -15,6 +15,9 @@
   --text-direction: rtl;
 
   --lightbox-animation-duration: 0.3s;
+
+  --scroll-button-size: 3rem;
+  --scroll-button-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
 }
 
 html {
