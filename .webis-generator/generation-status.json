@@ -1,11 +1,72 @@
 {
-  "timestamp": "2025-04-07T20:56:16.508Z",
+  "timestamp": "2025-04-07T20:56:50.434Z",
   "status": {
-    "totalComponents": 0,
+    "totalComponents": 10,
     "completedComponents": 0,
     "failedComponents": 0,
     "progress": 0
   },
-  "components": [],
+  "components": [
+    {
+      "name": "Header",
+      "type": "header",
+      "status": "pending",
+      "description": "Navigation bar with logo and menu items"
+    },
+    {
+      "name": "HeroSection",
+      "type": "hero",
+      "status": "pending",
+      "description": "Main hero section with headline, description and call to action"
+    },
+    {
+      "name": "AboutSection",
+      "type": "about",
+      "status": "pending",
+      "description": "Section describing the fitness center's experience and expertise"
+    },
+    {
+      "name": "ServicesSection",
+      "type": "services",
+      "status": "pending",
+      "description": "Section showcasing the fitness center's services"
+    },
+    {
+      "name": "GallerySection",
+      "type": "portfolio",
+      "status": "pending",
+      "description": "Image gallery showcasing the fitness center's facilities and activities"
+    },
+    {
+      "name": "BookingSection",
+      "type": "booking",
+      "status": "pending",
+      "description": "Booking system for scheduling appointments"
+    },
+    {
+      "name": "FAQSection",
+      "type": "faq",
+      "status": "pending",
+      "description": "Frequently asked questions section"
+    },
+    {
+      "name": "ContactSection",
+      "type": "contact",
+      "status": "pending",
+      "description": "Contact form and information"
+    },
+    {
+      "name": "Footer",
+      "type": "footer",
+      "status": "pending",
+      "description": "Footer with copyright, links and social media"
+    },
+    {
+      "name": "ScrollToTop",
+      "type": "utility",
+      "status": "pending",
+      "description": "Button to scroll back to the top of the page"
+    }
+  ],
   "repoName": "webis-site-mkvn-kvshr-dlta-1744058713716"
 }
