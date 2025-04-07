@@ -1,0 +1,6 @@
+# robots.txt for מכון כושר דלתא
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://מכון-כושר-דלתא.com/sitemap.xml
