@@ -13,6 +13,8 @@
   --transition-speed: 0.3s;
 
   --text-direction: rtl;
+
+  --lightbox-animation-duration: 0.3s;
 }
 
 html {
